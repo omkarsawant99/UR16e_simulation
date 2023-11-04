@@ -1,6 +1,6 @@
 # URDF Meshcat Simulation
 
-This repository contains the URDF files and simulation scripts for a robotic arm, in Meshcat and Pinocchio.
+This repository contains the URDF files and simulation scripts for a UR16e robotic arm, in Meshcat and Pinocchio.
 
 ## Files
 
